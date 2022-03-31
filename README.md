@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muhammadmiftahs
+- 👋 Hi, I’m Muhammad Miftahus Surur
 - 👀 I’m interested in FrontEnd Developer
 - 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, UI & UX Designer
 - 💞️ I’m looking to collaborate on Github 
