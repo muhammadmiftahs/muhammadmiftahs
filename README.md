@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammadmiftahs
 - 👀 I’m interested in FrontEnd Developer
-- 🌱 I’m currently learning HTML, CSS, JavaScript, UI & UX Designer
+- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, UI & UX Designer
 - 💞️ I’m looking to collaborate on Github 
 - 📫 Reach me at Instagram: @muhammadmiftahs
 
